@@ -1,2 +1,2 @@
-# idea.ly
+# ide@.ly
 Idea Portal
