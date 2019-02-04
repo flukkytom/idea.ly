@@ -1,0 +1,30 @@
+<!-- app/templates/admin/ideas/idea.html -->
+
+{% import "bootstrap/wtf.html" as wtf %}
+{% extends "base-template.html" %}
+{% block title %}
+    {% if add_ideas %}
+        Create New Idea
+    {% else %}
+        Update Idea
+    {% endif %}
+{% endblock %}
+{% block body %}
+<div class="content-section">
+ <div class="outer">
+    <div class="middle">
+      <div class="inner">
+        <div class="left">
+            {% if add_ideas %}
+                <h1>Create New Idea</h1>
+            {% else %}
+                <h1>Update Idea</h1>
+            {% endif %}
+            <br/>
+            {{ wtf.quick_form(form) }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

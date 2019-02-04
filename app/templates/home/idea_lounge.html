@@ -1,0 +1,88 @@
+{% extends "base_idea.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block body %}
+ <div class="container-fluid dashboard-content ">
+                    <!-- ============================================================== -->
+                    <!-- pageheader  -->
+                    <!-- ============================================================== -->
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            <div class="page-header">
+                                <h2 class="pageheader-title">Blackline Ide@s Lounge</h2>
+                                <p class="pageheader-text">Nulla euismod urna eros, sit amet scelerisque torton lectus vel mauris facilisis faucibus at enim quis massa lobortis rutrum.</p>
+                                <div class="page-breadcrumb">
+                                    <nav aria-label="breadcrumb">
+                                        <ol class="breadcrumb">
+                                            <li class="breadcrumb-item"><a href="#" class="breadcrumb-link">BlackLine Ide@s</a></li>
+                                            <li class="breadcrumb-item active" aria-current="page">What we think?</li>
+                                        </ol>
+                                    </nav>
+                                    <br />
+                                    <a href="{{ url_for('admin.add_ideas') }}" class="btn btn-rounded btn-success">
+                                       <i class="fa fa-plus"></i>
+                                        Create New Ide@
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- ============================================================== -->
+                    <!-- end pageheader  -->
+                    <!-- ============================================================== -->
+                    <div class="row">
+                        <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                            {% if ideas %}
+                            <div class="row">
+                                {% for idea in ideas %}
+                                <div class="col-xl-3 col-lg-6 col-md-12 col-sm-12 col-12">
+                                    <div class="product-thumbnail">
+                                        <div class="product-img-head">
+                                            <div class="product-img">
+                                                <img src="https://png.pngtree.com/svg/20170715/idea_1105165.png" alt="" class="img-fluid"></div>
+                                            <div class="ribbons"></div>
+                                            <div class="ribbons-text">New</div>
+                                            <div class=""><a href="#" class="product-wishlist-btn"><i class="fas fa-heart"></i></a></div>
+                                        </div>
+                                        <div class="product-content">
+                                            <div class="product-content-head">
+                                                <h3 class="product-title">{{ idea.title }}</h3>
+                                                <div class="product-rating d-inline-block">
+                                                    <i class="fa fa-fw fa-star"></i>
+                                                    <i class="fa fa-fw fa-star"></i>
+                                                    <i class="fa fa-fw fa-star"></i>
+                                                    <i class="fa fa-fw fa-star"></i>
+                                                    <i class="fa fa-fw fa-star"></i>
+                                                </div>
+                                                <div>
+                                                    {{ idea.description }}
+                                                </div>
+                                            </div>
+                                            <div class="product-btn">
+                                                <a href="#" class="btn btn-primary">Read {{ idea.title }}</a>
+                                                <a href="#" class="btn btn-outline-light"><i class="fas fa-exchange-alt"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                {% endfor %}
+                                <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12 col-12">
+                                    <nav aria-label="Page navigation example">
+                                        <ul class="pagination">
+                                            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                                            <li class="page-item active"><a class="page-link " href="#">2</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                                            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            {% else %}
+                              <div style="text-align: left">
+                                <h3> Nobody is thinking yet, we gat no Ideas!. </h3>
+                                <hr class="intro-divider">
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+{% endblock %}
