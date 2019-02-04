@@ -1,4 +1,4 @@
-# idea.ly
+# ide@.ly
 Idea Portal
 @2019
 
