@@ -2,439 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2969a2df-9928-4a1c-9d82-40ca8d812f3d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/avatar-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/avatar-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/avatar-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/avatar-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/avatar-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/bitbucket.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/card-img-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/card-img-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/card-img-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/card-img.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/down-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/drag-indicator.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/dribbble.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/dropbox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-product-img-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-product-img-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-product-img-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-product-img-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-slider-img-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-slider-img-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/eco-slider-img-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/error-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/github.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/mail_chimp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/product-pic-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/product-pic-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/product-pic-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/product-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/slack.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/switch.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-Black.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-Bold.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-Book.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900d41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/fonts/themify.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/fonts/themify.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/fonts/themify9f24.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/fonts/themifyd41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/weather-icons/fonts/weathericons-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/editor-fonts/summernote4c4d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/editor-fonts/summernote4c4d.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/editor-fonts/summernote4c4d.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/editor-fonts/summernoted41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/images/loader.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/dashboard-ecommerce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/dashboard-finance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/dashboard-influencer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/dashboard-sales.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/gmaps.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/google_map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/jvectormap.custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/libs/js/main-js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/jquery-asColor/dist/jquery-asColor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/jquery-asColorPicker/dist/jquery-asColorPicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-colorpicker/jquery-asGradient/dist/jquery-asGradient.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-select/css/bootstrap-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap-select/js/bootstrap-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/c3charts/C3chartjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/c3charts/c3.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/c3charts/c3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/c3charts/d3-5.4.0.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/chartist-bundle/Chartistjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/chartist-bundle/chartist-plugin-threshold.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/chartist-bundle/chartist.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/chartist-bundle/chartist.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/charts-bundle/Chart.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/charts-bundle/chartjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/morris-bundle/Morrisjs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/morris-bundle/morris.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/morris-bundle/morris.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/morris-bundle/morrisjs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/morris-bundle/raphael.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/sparkline/jquery.sparkline.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/charts/sparkline/spark-js.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/cropper/dist/cropper-int.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/cropper/dist/cropper.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/cropper/dist/cropper.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/custom-js/jquery.multi-select.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/css/buttons.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/css/dataTables.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/css/select.bootstrap4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/js/buttons.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/js/data-table.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datepicker/datepicker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datepicker/moment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datepicker/tempusdominus-bootstrap-4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/datepicker/tempusdominus-bootstrap-4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/daterangepicker/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/dropzone/dropzone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/circular-std/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flag-icon.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ae.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/af.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ai.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/al.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/am.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ao.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/aq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ar.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/as.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/at.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/au.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/aw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ax.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/az.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ba.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/be.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/br.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/by.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/bz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ca.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ci.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ck.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/co.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/cz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/de.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/dj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/dk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/dm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/do.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/dz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ec.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ee.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/eg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/eh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/er.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/es.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/et.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/fr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ga.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ge.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/gy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/hk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/hm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/hn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/hr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ht.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/hu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/id.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ie.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/il.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/im.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/in.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/io.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/iq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ir.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/is.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/it.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/je.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/jm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/jo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/jp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ki.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/km.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ky.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/kz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/la.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/li.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ls.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/lv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ly.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ma.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/md.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/me.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ml.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mp.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mq.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ms.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/my.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/mz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/na.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ne.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ng.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ni.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/no.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/np.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/nz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/om.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ps.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/pw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/py.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/qa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/re.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/rs.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ru.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/rw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sa.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sd.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/se.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/si.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/so.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ss.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/st.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sx.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/sz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/td.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/th.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tj.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tl.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/to.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tr.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tv.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/tz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ua.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/um.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/us.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/uy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/uz.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/va.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/vc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ve.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/vg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/vi.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/vn.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/vu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/wf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ws.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/ye.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/yt.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/za.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/zm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/flag-icon-css/flags/zw.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/css/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/fonts/themify9f24.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/themify-icons/themify-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/fonts/weather-icons/css/weather-icons.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/css/fullcalendar.print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/js/calendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/js/fullcalendar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/full-calendar/js/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/gauge/gauge.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/gauge/gauge.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/inputmask/css/inputmask.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/inputmask/js/jquery.inputmask.bundle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jquery/jquery-3.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-au-mill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-in-mill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-uk-mill-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-us-aea-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/jvectormap/jquery-jvectormap-world-mill-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/multi-select/css/multi-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/multi-select/js/jquery.multi-select.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/parsley/parsley.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/select2/css/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/select2/js/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/shortable-nestable/Sortable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/shortable-nestable/jquery.nestable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/shortable-nestable/sort-nest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/slimscroll/jquery.slimscroll.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/css/summernote-bs4.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/summernote/js/summernote-bs4.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/timeline/img/cd-icon-location.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/timeline/img/cd-icon-movie.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/timeline/img/cd-icon-picture.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/timeline/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/static/assets/vendor/vector-map/jqvmap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/ideas/idea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/admin/ideas/ideas.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/base-idea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/base-template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/base_idea.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/home/rewards.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/templates/template-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base-idea.html" afterPath="$PROJECT_DIR$/app/templates/base-idea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base-template.html" afterPath="$PROJECT_DIR$/app/templates/base-template.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base_idea.html" afterPath="$PROJECT_DIR$/app/templates/base_idea.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/template-1.html" afterPath="$PROJECT_DIR$/app/templates/template-1.html" />
     </list>
     <ignored path="idea.ly.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -455,7 +26,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -475,6 +46,56 @@
               <second_editor>
                 <js_state />
               </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="122" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base-idea.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/base-idea.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base-template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/base-template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_idea.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/base_idea.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template-1.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/templates/template-1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="126" selection-start-line="12" selection-start-column="126" selection-end-line="12" selection-end-column="126" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -509,15 +130,15 @@
         <option value="$PROJECT_DIR$/app/admin/views.py" />
         <option value="$PROJECT_DIR$/app/templates/home/admin_dashboard.html" />
         <option value="$PROJECT_DIR$/instance/config.py" />
-        <option value="$PROJECT_DIR$/app/templates/base-idea.html" />
         <option value="$PROJECT_DIR$/app/templates/home/dashboard.html" />
         <option value="$PROJECT_DIR$/app/home/views.py" />
-        <option value="$PROJECT_DIR$/app/templates/base_idea.html" />
         <option value="$PROJECT_DIR$/app/templates/home/rewards.html" />
-        <option value="$PROJECT_DIR$/app/templates/base-template.html" />
-        <option value="$PROJECT_DIR$/app/templates/template-1.html" />
         <option value="$PROJECT_DIR$/app/templates/home/idea_lounge.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/app/templates/base-idea.html" />
+        <option value="$PROJECT_DIR$/app/templates/base-template.html" />
+        <option value="$PROJECT_DIR$/app/templates/base_idea.html" />
+        <option value="$PROJECT_DIR$/app/templates/template-1.html" />
       </list>
     </option>
   </component>
@@ -528,10 +149,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1920" />
-    <option name="y" value="-2" />
-    <option name="width" value="1920" />
-    <option name="height" value="1082" />
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -574,6 +195,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="idea.ly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idea.ly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idea.ly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idea.ly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="idea.ly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -816,10 +469,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24066168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24958494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1051,14 +704,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="82" selection-start-line="60" selection-start-column="82" selection-end-line="60" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/auth/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -1081,14 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="141" column="77" selection-start-line="141" selection-start-column="77" selection-end-line="141" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/base-idea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -1129,14 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/base_idea.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="172" column="14" selection-start-line="172" selection-start-column="14" selection-end-line="172" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/home/rewards.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -1167,22 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-328">
           <caret line="155" column="40" selection-start-line="155" selection-start-column="40" selection-end-line="155" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/base-template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="34" column="112" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="112" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/template-1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="33" column="75" selection-start-line="33" selection-start-column="75" selection-end-line="33" selection-end-column="75" />
           <folding />
         </state>
       </provider>
@@ -1224,6 +837,46 @@
           <second_editor>
             <js_state />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="122" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/base-idea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/base-template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/base_idea.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/template-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="126" selection-start-line="12" selection-start-column="126" selection-end-line="12" selection-end-column="126" />
+          <folding />
         </state>
       </provider>
     </entry>
